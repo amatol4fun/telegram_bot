@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "example"
+		},
+		{
+			"path": "fixtures"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "spec"
+		}
+	]
+}
